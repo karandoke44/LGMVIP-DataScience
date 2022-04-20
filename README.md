@@ -1,8 +1,8 @@
 # LetsGrowMore Virtual Internship Program 
-# LGMVIP-Data Science Intern-March-22
+# LGMVIP-Data Science Intern-April-22
 
 **Submitted by:**
-NISHU KUMARI
+Karan Doke
 
 **Programming Language used :** Python
 
@@ -37,7 +37,7 @@ Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_conne
 
 We need to read the image in RBG format and then convert it to a grayscale image. This will turn an image into a classic black and white photo. Then the next thing to do is invert the grayscale image also called negative image, this will be our inverted grayscale image. Inversion can be used to enhance details. Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
 
-For this task i used two images, one is of a BIRD and other is of a GIRL!!
+For this task i used Marvel Superheros Image !!
 
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task3-datascience-activity-6908020740172464128-Vdru
 
@@ -122,6 +122,6 @@ Dataset Link : https://www.kaggle.com/msambare/fer2013
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task10-datascience-activity-6913730442844127232-_E7m?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
-     **Copyright (c) 2022 Nishu Kumari**
+     **Copyright (c) 2022 Karan Doke**
 
      If you have any Queries or suggestions, feel free to reach out to me.😌🙂
